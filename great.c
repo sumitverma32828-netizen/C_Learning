@@ -17,6 +17,4 @@ int main(){
     else {
         printf("Both numbers are equal.\n");
     }
-        return 0;
-
 }
